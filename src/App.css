@@ -1,11 +1,20 @@
 .page {
 margin: 20px;
+background-color: salmon;
 }
 .interactions {
 text-align: center;
 }
 .table {
 margin: 20px 0;
+}
+.header{
+  text-align: center;
+}
+.header-details{
+  font-size: 8px;
+  text-align: right;
+
 }
 .table-header {
 display: flex;
